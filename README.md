@@ -1,8 +1,5 @@
 ## Hi! Eu sou Aline Nogueira
 
--  Trabalho atualmente com RH, buscando ser desenvolvedora web.
--  Estou fazendo curso de Full Stack e estudando também um pouco de JavaScript até o momento.
-
    <div>
    <a href="https://github.com/Linengmg">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Linengmg&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
