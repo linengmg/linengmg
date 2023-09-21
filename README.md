@@ -1,5 +1,5 @@
   ## Hi! Eu sou Aline Nogueira ✋
-
+  
  <div>
    <a href="https://github.com/Linengmg">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Linengmg&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
@@ -22,5 +22,6 @@
  <a href="https://instagram.com/
 " target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
   
 
