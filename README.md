@@ -1,4 +1,4 @@
-  ## Hi! Eu sou Aline Nogueira ✋
+  ## Oi! Eu sou Aline Nogueira ✋
   
  <div>
    <a href="https://github.com/Linengmg">
