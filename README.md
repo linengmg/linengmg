@@ -5,7 +5,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linengmg&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linengmg&theme=neon&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p> 
  <div>
@@ -13,6 +13,10 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Linengmg&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
 </div>
 
+ <br>
+ <br>
+
+## &rightarrow; Conhecimento 💻
   <div style="display: inline_block"><br>
   <img align="center" alt="Aline-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Aline-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -25,13 +29,14 @@
   </div>
   
   <br>
+  <br>
  
-  ## &rightarrow; Redes Sociais 😉
+## &rightarrow; Redes Sociais 
 
   
 <a href="https://www.linkedin.com/in/aline-gomes-962689261" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://brief-griffin-a06.notion.site/Aline-Nogueira-Gomes-11b2634e02df80b29b71d3dbf85622d2
-" target="_blank"><img src="https://img.shields.io/badge/-notion-%23E4405F?style=for-the-badge&logo=notion&logoColor=white" target="_blank"></a>
+" target="_blank"><img src="https://img.shields.io/badge/-notion-%A8E6A3?style=for-the-badge&logo=notion&logoColor=white" target="_blank"></a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
   
