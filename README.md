@@ -16,7 +16,7 @@
  <br>
  <br>
 
-## &rightarrow; Conhecimento 💻
+## &rightarrow; Linguagens 💻
   <div style="display: inline_block"><br>
   <img align="center" alt="Aline-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Aline-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
