@@ -1,16 +1,13 @@
   ## Oi! Eu sou Aline Nogueira ✋
 
 <p>
-
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linengmg&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
-</p>
-  
+</p> 
  <div>
    <a href="https://github.com/Linengmg">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Linengmg&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
