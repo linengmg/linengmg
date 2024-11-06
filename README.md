@@ -30,7 +30,7 @@
 
   
 <a href="https://www.linkedin.com/in/aline-gomes-962689261" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https:https://brief-griffin-a06.notion.site/Aline-Nogueira-Gomes-11b2634e02df80b29b71d3dbf85622d2
+ <a href="https://brief-griffin-a06.notion.site/Aline-Nogueira-Gomes-11b2634e02df80b29b71d3dbf85622d2
 " target="_blank"><img src="https://img.shields.io/badge/-notion-%23E4405F?style=for-the-badge&logo=notion&logoColor=white" target="_blank"></a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
