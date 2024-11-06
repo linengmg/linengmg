@@ -1,4 +1,4 @@
-  ## Oi! Eu sou Aline Nogueira ✋
+  ## Oi! Eu sou Aline Nogueira 👩‍💻
 
 <p>
 <img 
